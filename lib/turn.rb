@@ -38,5 +38,6 @@ def turn(board)
     move(board, index)
   else
     "invalid"
+    false
   end
 end
