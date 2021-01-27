@@ -6,7 +6,3 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 turn(board)
-
-while turn(board) == false
-  turn(board)
-end
