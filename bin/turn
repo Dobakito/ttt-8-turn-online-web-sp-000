@@ -8,3 +8,4 @@ display_board(board)
 turn(board)
 
 until turn(board) == false
+end
